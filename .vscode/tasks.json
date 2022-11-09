@@ -14,7 +14,7 @@
     {
       "label": "Running your app...",
       "type": "shell",
-      "command": "node index.js",
+      "command": "node ./*/index.js",
       "presentation": {
         "reveal": "always",
         "panel": "new"
